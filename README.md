@@ -1,4 +1,5 @@
 Project Overview
+
 This project is an AI-powered job recommendation platform designed to help users match their resumes with relevant job opportunities. The system analyzes resume content and compares it with job descriptions using natural language processing and machine learning techniques. By extracting key skills, experience, and qualifications from resumes, the platform identifies positions that closely align with the candidate’s profile. The goal of this project is to demonstrate how artificial intelligence can assist in automating the job search process and improving the efficiency of candidate-job matching.
 
 System Description
@@ -12,3 +13,4 @@ The project combines several modern technologies across both backend and fronten
 Purpose of the Project
 
 This project was developed as part of an academic capstone project to explore practical applications of artificial intelligence in career and recruitment systems. It demonstrates how machine learning techniques can be used to extract meaningful insights from textual data and assist users in identifying job opportunities that align with their skills and experience.
+
